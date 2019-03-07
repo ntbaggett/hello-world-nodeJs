@@ -12,6 +12,8 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+		"node": "10.15.3"}
   "bugs": {
     "url": "https://github.com/ntbaggett/hello-world-nodeJs/issues"
   },
